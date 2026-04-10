@@ -1,0 +1,9 @@
+# Caches and states
+shader_cache/
+watch_later/
+
+# Logs
+memo-history.log
+
+# Backups
+*.backup
